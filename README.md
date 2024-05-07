@@ -25,4 +25,5 @@ How to use: <br>
   • Hit "Run" Button. <br>
   <br>
   <br>
-  ![image](https://github.com/leeroyjenkins-87/AutomaticMapMover/assets/68830045/550897b5-4bc7-4199-95b4-446fea684347)
+  
+  ![image](https://github.com/leeroyjenkins-87/AutomaticMapMover/assets/68830045/0f693b55-dc0d-4b7f-92e4-ea5dbde31f9a)
